@@ -3,7 +3,7 @@ layout : single
 title : "C언어"
 ---
 
-# c언어 실습 및 과제
+``` # c언어 실습 및 과제
 
 #include <stdio.h>
 #include <string.h>
@@ -58,3 +58,4 @@ int main()
 		printf("영단어%d : %s \n", i + 1, str[i]);
 	return 0;
 }
+```
