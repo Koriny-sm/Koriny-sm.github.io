@@ -1,4 +1,5 @@
 ---
+published : true
 layout : single
 title : "c언어 실습과제 #2"
 ---
